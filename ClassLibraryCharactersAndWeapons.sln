@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryCharactersAndWeapons", "ClassLibraryCharactersAndWeapons\ClassLibraryCharactersAndWeapons.csproj", "{82233E34-EBDE-4394-8F23-411643819F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectDITests", "UnitTestProjectDITests\UnitTestProjectDITests.csproj", "{EADCD419-54D8-4F54-BB74-72FD5647058C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82233E34-EBDE-4394-8F23-411643819F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82233E34-EBDE-4394-8F23-411643819F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82233E34-EBDE-4394-8F23-411643819F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82233E34-EBDE-4394-8F23-411643819F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADCD419-54D8-4F54-BB74-72FD5647058C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADCD419-54D8-4F54-BB74-72FD5647058C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADCD419-54D8-4F54-BB74-72FD5647058C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADCD419-54D8-4F54-BB74-72FD5647058C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67756C6C-7E9C-49C1-A298-1833F8C6B1BD}
+	EndGlobalSection
+EndGlobal
